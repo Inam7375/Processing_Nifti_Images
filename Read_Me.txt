@@ -1,0 +1,1 @@
+Enter the file of interest in pop up menu and it will do the rest i.e. calculations and saving the images with ".nii" extension in the same folder as original file.
